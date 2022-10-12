@@ -1,0 +1,10 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+#foo{
+    color: coral;
+}
+#bar{
+    color: slategrey;
+    font-size: 25px;
+}
