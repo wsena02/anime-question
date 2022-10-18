@@ -1,17 +1,10 @@
-h1{
-    color: goldenrod;
+*{
+    font-family: 'Courier New', Courier, monospace;
 }
 #foo{
-    font-size: 15px;
-    color: darkslategrey;
+    color: coral;
 }
 #bar{
-    font-size: 9px;
-    color: darkslategray;
-}
-#baz{
-    color: aqua;
-}
-#hoge{
-    color: aqua;
+    color: slategrey;
+    font-size: 25px;
 }
